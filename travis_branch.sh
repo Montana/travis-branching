@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Becareful of a Fork Bomb - Montana
+# Be careful of a Fork Bomb - Montana
 
 function travis-branch-commit() {
     local head_ref branch_ref
